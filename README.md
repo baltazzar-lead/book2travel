@@ -1,11 +1,6 @@
 Book2Travel
 AI‑powered travel assistant that finds multi‑modal routes (train + flight) and saves up to 70% compared to tour operators.
 
-https://img.shields.io/badge/website-book2travel.ru-blue
-https://img.shields.io/badge/Next.js-15-black
-https://img.shields.io/badge/AI-DeepSeek-4A90E2
-https://img.shields.io/badge/Affiliate-Travelpayouts-FF6B35
-
 📌 Overview
 Book2Travel is a travel platform that combines:
 
